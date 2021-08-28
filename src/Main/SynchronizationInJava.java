@@ -4,7 +4,7 @@ import java.io.*;
 import java.util.*;
 
 // Synchronization in Java is the ability to control the access of multiple threads to any shared 
-// resource. It is used to prevent thread interface and to prevent consistency problem.
+// resource. It is used to prevent thread interface and to prevent consistency problems.
 // 
 
 
